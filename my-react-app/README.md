@@ -6,6 +6,7 @@
 
 ## 🔧 Tehnoloogiad
 
+- Java
 - React  
 - CSS (flexbox & grid)  
 - [lucide-react](https://github.com/lucide-icons/lucide) ikoonid  
@@ -27,3 +28,4 @@
    ```bash
    git clone https://github.com/YOUR_USERNAME/pangasysteemiveebirakendus.git
    cd pangasysteemiveebirakendus
+   npm start
