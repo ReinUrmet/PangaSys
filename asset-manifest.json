@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/PangaSys/static/css/main.f855e6bc.css",
-    "main.js": "/PangaSys/static/js/main.f3daf7cb.js",
+    "main.css": "/PangaSys/static/css/main.696b7f2d.css",
+    "main.js": "/PangaSys/static/js/main.3e750497.js",
     "static/js/453.ad6eb26e.chunk.js": "/PangaSys/static/js/453.ad6eb26e.chunk.js",
-    "static/media/logo.svg": "/PangaSys/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Rein.jpeg": "/PangaSys/static/media/Rein.5f44957b97f7d62a4a10.jpeg",
+    "static/media/Hardy.jpeg": "/PangaSys/static/media/Hardy.b246b8d648c1a5d8ebc9.jpeg",
+    "static/media/MainPage.png": "/PangaSys/static/media/MainPage.a80dbc589fe88109ee5b.png",
+    "static/media/Registreerimine.png": "/PangaSys/static/media/Registreerimine.eed98d4cf90c86ac99bb.png",
+    "static/media/makseTegemine.png": "/PangaSys/static/media/makseTegemine.be22a69782c25c5d9edf.png",
+    "static/media/kontoValimine.png": "/PangaSys/static/media/kontoValimine.f8639544bd74346dfcb2.png",
+    "static/media/Sisselogimine.png": "/PangaSys/static/media/Sisselogimine.e21febe68679c9c8279f.png",
     "index.html": "/PangaSys/index.html",
-    "main.f855e6bc.css.map": "/PangaSys/static/css/main.f855e6bc.css.map",
-    "main.f3daf7cb.js.map": "/PangaSys/static/js/main.f3daf7cb.js.map",
+    "main.696b7f2d.css.map": "/PangaSys/static/css/main.696b7f2d.css.map",
+    "main.3e750497.js.map": "/PangaSys/static/js/main.3e750497.js.map",
     "453.ad6eb26e.chunk.js.map": "/PangaSys/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.f3daf7cb.js"
+    "static/css/main.696b7f2d.css",
+    "static/js/main.3e750497.js"
   ]
 }
